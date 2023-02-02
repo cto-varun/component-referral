@@ -1,0 +1,87 @@
+.d-flex {
+    display: flex !important;
+}
+.justify-content-between {
+    justify-content: space-between !important;
+}
+.ml-2 {
+    margin-left: 1.25rem !important;
+}
+.my-2 {
+    margin-top: 1.25rem !important;
+    margin-bottom: 1.25rem !important;
+}
+.p-1 {
+    padding: 0.75rem !important;
+}
+.p-2 {
+    padding: 1rem !important;
+}
+.bg-light {
+    background-color: rgb(240, 240, 240) !important;
+}
+.ml-1 {
+    margin-left: 0.5rem !important;
+}
+.mt-1 {
+    margin-left: 0.5rem !important;
+}
+.mr-1 {
+    margin-right: 0.5rem !important;
+}
+.bg-transparent {
+    background-color: transparent !important;
+}
+.text-green {
+    color: rgb(111, 164, 67) !important;
+}
+.text-bold {
+    font-weight: bold !important;
+}
+.text-head {
+    font-weight: 600 !important;
+}
+.mt-2 {
+    margin-top: 1rem;
+}
+.mt-4 {
+    margin-top: 1.5rem !important;
+}
+.text-dollar {
+    font-size: 14px !important;
+    color: #888 !important;
+}
+.text-price {
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+.miw-100 {
+    min-width: 100px !important;
+}
+.maw-150 {
+    max-width: 150px !important;
+}
+.basic-details {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-around !important;
+}
+.text-dollar-blue {
+    color: rgb(80, 153, 218) !important;
+}
+.text-dollar-green {
+    color: rgb(104, 157, 67) !important;
+}
+.text-dollar-grey {
+    color: rgb(200, 200, 200) !important;
+}
+.text-dollar-grey-light {
+    color: rgb(137, 137, 137) !important;
+}
+.text-table-dark {
+    color: #666 !important;
+}
+
+.text-dollar-red {
+    color: red !important;
+}
